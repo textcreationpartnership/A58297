@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new letter from Aberdeen in Scotland sent to a person of quality wherein is a more full account of the proceedings of the Jewes than hath been hitherto published / by R.R.</title>
+            <author>R. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58297</idno>
+            <idno type="STC">Wing R63</idno>
+            <idno type="STC">ESTC R24487</idno>
+            <idno type="EEBO-CITATION">08206246</idno>
+            <idno type="OCLC">ocm 08206246</idno>
+            <idno type="VID">41087</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41087)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1238:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new letter from Aberdeen in Scotland sent to a person of quality wherein is a more full account of the proceedings of the Jewes than hath been hitherto published / by R.R.</title>
+                  <author>R. R.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Maxwell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jews --  Persecutions --  Public opinion.</term>
+               <term>Jews --  Social life and customs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41087:1"/>
+            <pb facs="tcp:41087:1" rendition="simple:additions"/>
+            <p>A NEW LETTER FROM ABERDEEN IN SCOTLAND, Sent to a <hi>Perſon of Quality.</hi>
+            </p>
+            <p>WHEREIN Is a more full Account of the <hi>Proceedings</hi> of the JEWES, Than hath been hitherto Publiſhed.</p>
+            <p>By <hi>R. R.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Maxwell,</hi> in the year, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:41087:2"/>
+            <pb n="1" facs="tcp:41087:2"/>
+            <head>A LETTER FROM <hi>ABERDEEN,</hi> October 26. 1665.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THat our former and friendly Corre<g ref="char:EOLhyphen"/>ſpondence may not dye, though of a long time I have not heard from you, yet hoping this will find you living, and in good health, give me leave to ac<g ref="char:EOLhyphen"/>quaint you of what I know concerning the proceedings of the <hi>Iſrae,</hi> in this juncture
+<pb n="2" facs="tcp:41087:3"/> of time, wherein ſcarce any thing elſe is ei<g ref="char:EOLhyphen"/>ther talkt of, or look after, in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of them. The whole World we ſee is out of or<g ref="char:EOLhyphen"/>der, nothing to be expected but Wars and Inteſtine Broils, and whether the Lord will be pleaſed in the midſt of theſe Combuſti<g ref="char:EOLhyphen"/>ons to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll in his Ancient People, and mag<g ref="char:EOLhyphen"/>nifie his Name in them, he only knoweth. On the 13 inſtant, by the foulneſs of the weather and ſtorms, put into this place a Ship, from whence ſhe came we cannot tell, but our Profeſſor of the Tongues and Lan<g ref="char:EOLhyphen"/>guages having notice thereof, went down unto them, but could not underſtand them; he ſuppoſes they ſpoke broken <hi>Hebrew,</hi> and by a Letter they had in High-Dutch, they found them bound for <hi>Amſterſtam,</hi> and to have correſpondence with their Brethren (the <hi>Jews</hi>) there; Which Letter further re<g ref="char:EOLhyphen"/>lates, That there is Sixteen hundred thou<g ref="char:EOLhyphen"/>ſand of them together in <hi>Arabia,</hi> and that there came into <hi>Europe</hi> Sixty Thouſand more; as likewiſe, that they have had En<g ref="char:EOLhyphen"/>counters with the <hi>Turks,</hi> and ſlain great numbers of them; none are able to ſtand againſt them; They give Liberty of Con<g ref="char:EOLhyphen"/>ſcience
+<pb n="3" facs="tcp:41087:3"/> to all, except the <hi>Turks,</hi> endeavouring the utter Ruihe and Extirpation of them: As for their Ship, the Sails thereof are white branched Sattin, and all their Ropes are Silk of the ſame colour; and in the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was this Inſcription in fair Red Characters, <hi>THESE ARE OF THE TEN TRIBES OF ISRAEL,</hi> which was to diſcover them to be <hi>Jews:</hi> Their Food on board was on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Rice and Honey; As for their Habit (or Clothing) it is of black and blew. It ſeems they have ſent to all remarkable pla<g ref="char:EOLhyphen"/>ces in the VVorld to their Brethren, to give them notice of their proceedings, to the end they may come unto, and joyn with them: I ſuppoſe you have not been ignorant of the Letters from ſeveral parts, the noiſe of them being communicated to moſt parts of Chri<g ref="char:EOLhyphen"/>ſtendom. Thus have I given you an acconnt of the <hi>Jews,</hi> aſſuring you, that there's not a tittle in it but what is truth, being all: at the preſent that this place affords, And, hoping to hear from you ſo ſoon as poſſible, I remain</p>
+            <closer>
+               <signed>Your Friend and Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:41087:4"/>
+            <head>
+               <hi>A Letter from</hi> Antwerp, Octob. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1665.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce the laſt I received from you, I have had occaſion to ſpeak with one that is well informed of the pro<g ref="char:EOLhyphen"/>ceedings of the <hi>Iſraelites;</hi> he tells me, That they appear in great numbers in ſeveral places: The firſt menti<g ref="char:EOLhyphen"/>oned appears in <hi>Arabia,</hi> they are ſaid to poſſeſs themſelves in <hi>Meka;</hi> but at the firſt, the <hi>Jews</hi> that lived amongſt the <hi>Turks</hi> would not acknowledge them to be their Brethren, but ſaid they were a fort of <hi>Arabs,</hi> that lived in the Moun<g ref="char:EOLhyphen"/>tainous parts of <hi>Arabia the Happy;</hi> but now they ſay they are <hi>Iſraelites,</hi> and ſent by the ten Tribes to be their fore-run<g ref="char:EOLhyphen"/>ners. Another Company are ſaid to move from the Eaſt and North Eaſt Countrey of <hi>Aſia.</hi> The third and great Company in the Deſart Goth of <hi>Morocco,</hi> which is as I con<g ref="char:EOLhyphen"/>ceive, not far from <hi>Cape de Ver,</hi> but more within the Land; they conſiſt of 8000 Companies, the leaſt of them contain 100 men, and ſome of them 1000. A <hi>Jew</hi> that lives in theſe parts came unto <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <hi>Barbary</hi> in<g ref="char:punc">▪</g> 
+               <hi>Auguſt</hi> laſt, and taking the Book of the Law into his hand, did ſwear by it, That he came lately from them, and had ſpoken with them, and ſaw them in that number aforementioned, and that they are arm<g ref="char:EOLhyphen"/>ed with Swords, Spears and Bows, and no fire-Arms are found amongſt them: This Jew did not underſtand the Language ordinarily ſpoken by them, but many of them ſpoke <hi>Hebrew,</hi> in which he diſcourſed with them; their Lea<g ref="char:EOLhyphen"/>der is ſaid to be a holy man, underſtandeth all languages, and worketh Miracles.</p>
+            <p>This is by a <hi>Jew</hi> living in <hi>Saly,</hi> to his Brother in <hi>Holland,</hi> and upon that Report which he received from the fore-men<g ref="char:EOLhyphen"/>tioned perſon who had been with them, and is credited with
+<pb n="5" facs="tcp:41087:4"/> his brethren; he ſaith, they put all to the ſword except <hi>Jews,</hi> they reſt upon the Sabbath day, and no fire is ſeen in their Camp; their women and children ſtay ſomewhere behind them, and follow at a diſtance, none are ſeen with them, they dig in a Mountain in the Deſart for a Trumpet, and ſay, that when they find it, all Nations will be gathered to them up<g ref="char:EOLhyphen"/>on the ſound thereof.</p>
+            <p>In diſpute with my Informer, I raiſed many objections con<g ref="char:EOLhyphen"/>cerning the places from whence they came, as alſo the man<g ref="char:EOLhyphen"/>ner of their coming, <hi>viz.</hi> Being in a ſpirit of <hi>Judaiſm,</hi> in great power, led by a holy man, doing great miracles, and all things anſwering the deſcription of the Meſſias, they may expect that it would be a teſtimony than the Chriſtians and other people and Nations ſhould be gathered in to the <hi>Jews,</hi> and not the <hi>Jews</hi> into Chriſt.</p>
+            <p>To the firſt he ſaid, Thoſe in <hi>Arabia</hi> are of the ſame com<g ref="char:EOLhyphen"/>pany with them that appear ſouth of <hi>Morocco,</hi> and all of them ſeem to lye hid in the Inland Countrey of <hi>Africa,</hi> ex<g ref="char:EOLhyphen"/>tending themſelves over the vaſt Tract of Land comprehen<g ref="char:EOLhyphen"/>ping all between the two Tropicks, almoſt as far as the Cape of <hi>Good Hope.</hi>
+            </p>
+            <p>He thinketh them to be the white people of whom the Inhabitants of <hi>Guiny<g ref="char:punc">▪</g>
+               </hi> uſe to ſpeak, who will not mix them<g ref="char:EOLhyphen"/>ſelves with their neighbours. nor have any other commerce with them; they in the night bring Merchandiſes to ſet pla<g ref="char:EOLhyphen"/>ces, and in exchange to have ſalt and other neceſſries as they want, but will be ſeen by none; ſuch as went from them, are one half of their way to <hi>Meka;</hi> he thinketh they poſſeſ<g ref="char:EOLhyphen"/>ſed the <hi>Arabians</hi> Countrey, and went out of <hi>Africa</hi> into <hi>A<g ref="char:EOLhyphen"/>merica,</hi> by the ſtrait of the entry into the Red. Sea<g ref="char:punc">▪</g> but whe<g ref="char:EOLhyphen"/>ther by Boat or Miracle, he knows not; thoſe in the Goſt ſeemed to have lived in the North part of <hi>Aſia,</hi> towards the ſtrait of <hi>Amion,</hi> from<g ref="char:punc">▪</g> whence <hi>Manaſſes Ben. Iſrael</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame<g ref="char:punc">▪</g>
+               <pb n="3" facs="tcp:41087:5"/> though many of them paſt into <hi>America;</hi> alſo he ſaith, that they having ſuffered great afflictions for the ſins of their fa<g ref="char:EOLhyphen"/>thers, are now come out from Idolatry, to live according to the purity and perfection of the Law, and ſhall from thence be raiſed to the knowledge of Chriſt; he underſtandeth this of a Nation to be born in a day, and their Convertion to be their birth: He thinketh, that the Law being true and good, and given them by God, it is ſuitable to his proceedings a<g ref="char:EOLhyphen"/>mongſt men, to give a teſtimony of his preſence with thoſe who have not heard of a Chriſt, neither are of the poſterity of thoſe that flew him, but of the ten Tribes formerly carri<g ref="char:EOLhyphen"/>ed into Captivity, and that they are thereby prepared to re<g ref="char:EOLhyphen"/>ceive the Goſpel; he further ſaith, That all the Churches cal<g ref="char:EOLhyphen"/>ed by the Name of Chriſtians, are full of vanity, and that they muſt be purified to whom Chriſt will teach his truth, and from them ſhall run a ſtream over flowing the whole world, whereby the Powers of the world ſhall be over thrown, and the right of Chriſt in and with his Saints ſhall then begin to be eſtabliſhed; He pitches much upon 1666. and confi<g ref="char:EOLhyphen"/>dently believes, That all the Propheſies of the Old and New Teſtament Centers in it, it being the time that ſhall give be<g ref="char:EOLhyphen"/>ginning to that holy and Spiritual Kingdome. I have ſpo<g ref="char:EOLhyphen"/>ken largely of this, believing you will be willing to hear what is related, and upon what grounds.</p>
+            <p>There are more Letters from <hi>Legorn</hi> to confirm the former News, and they ſay more, That the <hi>Turks</hi> were in a City near <hi>Meka,</hi> called <hi>Metai,</hi> from whence came 12000 <hi>Turks,</hi> who marched up againſt the <hi>Iſraelites,</hi> of which there was ſlain 8000 of them, their own ſwords and Muskets turning againſt themſelves: by the next we ſhall hear more. From <hi>Legorn</hi> we are in expectation of very good news.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41087:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
